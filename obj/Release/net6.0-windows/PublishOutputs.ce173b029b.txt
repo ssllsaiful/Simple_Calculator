@@ -1,0 +1,5 @@
+D:\dontnet_Projects\windotnetproject\cl.exe
+D:\dontnet_Projects\windotnetproject\cl.dll
+D:\dontnet_Projects\windotnetproject\cl.deps.json
+D:\dontnet_Projects\windotnetproject\cl.runtimeconfig.json
+D:\dontnet_Projects\windotnetproject\cl.pdb

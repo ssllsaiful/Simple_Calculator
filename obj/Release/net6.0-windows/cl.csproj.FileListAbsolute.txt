@@ -1,0 +1,17 @@
+D:\dontnet_Projects\CL\bin\Release\net6.0-windows\cl.exe
+D:\dontnet_Projects\CL\bin\Release\net6.0-windows\cl.deps.json
+D:\dontnet_Projects\CL\bin\Release\net6.0-windows\cl.runtimeconfig.json
+D:\dontnet_Projects\CL\bin\Release\net6.0-windows\cl.dll
+D:\dontnet_Projects\CL\bin\Release\net6.0-windows\cl.pdb
+D:\dontnet_Projects\CL\obj\Release\net6.0-windows\cl.CALCULATOR.resources
+D:\dontnet_Projects\CL\obj\Release\net6.0-windows\cl.Properties.Resources.resources
+D:\dontnet_Projects\CL\obj\Release\net6.0-windows\cl.csproj.GenerateResource.cache
+D:\dontnet_Projects\CL\obj\Release\net6.0-windows\cl.GeneratedMSBuildEditorConfig.editorconfig
+D:\dontnet_Projects\CL\obj\Release\net6.0-windows\cl.AssemblyInfoInputs.cache
+D:\dontnet_Projects\CL\obj\Release\net6.0-windows\cl.AssemblyInfo.cs
+D:\dontnet_Projects\CL\obj\Release\net6.0-windows\cl.csproj.CoreCompileInputs.cache
+D:\dontnet_Projects\CL\obj\Release\net6.0-windows\cl.dll
+D:\dontnet_Projects\CL\obj\Release\net6.0-windows\refint\cl.dll
+D:\dontnet_Projects\CL\obj\Release\net6.0-windows\cl.pdb
+D:\dontnet_Projects\CL\obj\Release\net6.0-windows\cl.genruntimeconfig.cache
+D:\dontnet_Projects\CL\obj\Release\net6.0-windows\ref\cl.dll
